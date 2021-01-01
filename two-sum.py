@@ -16,8 +16,3 @@ class Solution:
         self.count += 1
         self.twoSum(nums[1:], target)
         return self.sum_index
-
-
-a = Solution()
-
-print(a.twoSum([2,7,11,15], 9))
