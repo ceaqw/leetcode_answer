@@ -1,5 +1,5 @@
 # coding: utf8
-# datetime: 2021-03-07
+# datetime: 2021-03-08
 # 题目地址: https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/
 
 
