@@ -1,5 +1,5 @@
 # coding: utf8
-# datetime: 2021-03-012
+# datetime: 2021-03-12
 # 题目地址: https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/
 
 
